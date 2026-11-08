@@ -12,7 +12,7 @@ public class CarroTeste01 {
         carro1.ano = 2025;
 
         carro2.nome = "T-cross";
-        carro2.modelo = "versão turbo 2.0";
+        carro2.modelo = "versão turbo 3.0";
         carro2.ano = 2024;
 
         System.out.println(carro1.nome + "   " + carro1.modelo + "   " + carro1.ano);
